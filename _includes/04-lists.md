@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Play soccer
+* Play Video games
+  * FIFA
+  * Pro Evolution Soccer
